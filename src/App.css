@@ -1,0 +1,23 @@
+.square{
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(255, 47, 224);
+}
+
+.gameBorad{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 620px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 100px;
+}
+
+
+h1{
+    text-align: center;
+}
+.qus{
+    color: greenyellow;
+}

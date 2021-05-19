@@ -4,6 +4,11 @@
 - Pseudocode!!
 - Ask clarifying questions
 
+## setUp
+as a uaser I can see a page with a 3 by 3 grid board 
+-
+
+
 ### User Stories
 - As a user, I can see a page with a 3 by 3 grid board game with a question mark in each square.
 - As a user, when I click on one of the question marks an alert appears with the index position of that question mark in the array.
